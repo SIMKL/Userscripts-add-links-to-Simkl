@@ -6,3 +6,5 @@ To install the userscripts, install a userscript manager:
 - Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 Then click on the userscript you want to install, create a new userscript on either of the userscript managers, paste the code, save it and voila, you're done.
+
+(If links don't load at first page load, reload the page and they will show up)
